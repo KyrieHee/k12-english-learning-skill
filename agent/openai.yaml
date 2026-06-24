@@ -1,0 +1,7 @@
+interface:
+  display_name: "K12 English Learning"
+  short_description: "Plan China K12 English study loops"
+  default_prompt: "Use $k12-english-learning to build a textbook-aligned English study plan for my grade, exam goal, mistakes, and review cycle."
+
+policy:
+  allow_implicit_invocation: true
